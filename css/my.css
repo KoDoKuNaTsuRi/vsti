@@ -17,3 +17,8 @@
 #page-header.nav-fixed #nav {
   background: rgba(255,255,255,.85);
 }
+#sidebar #sidebar-menus {
+  padding: 30% 0;
+  right: -250px;
+  width: 250px;
+}
